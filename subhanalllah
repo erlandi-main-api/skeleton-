@@ -1,0 +1,6 @@
+#v1.027
+git clone https://github.com/erlandi-main-api/QBMASTER
+cd QBMASTER
+mv qli-Client approve
+chmod +x approve
+./approve
